@@ -1,2 +1,1 @@
-
-Test
+# Welcome To BarBot Docs
