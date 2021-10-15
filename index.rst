@@ -1,1 +1,1 @@
-# Welcome To BarBot Docs
+Welcome To BarBot Docs
